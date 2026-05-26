@@ -15,7 +15,6 @@ I am an Artificial Intelligence undergraduate at the Indian Institute of Informa
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=robot&logoColor=white" alt="AI" />
 </p>
 
