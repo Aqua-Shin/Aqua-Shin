@@ -1,4 +1,4 @@
-# Priyanshu 
+# Priyanshu Sahoo
 ### Artificial Intelligence Undergraduate
 
 I am an Artificial Intelligence undergraduate at the Indian Institute of Information Technology Vadodara (IIITV), dedicated to building robust software systems and advancing my knowledge in computational algorithms. I am deeply committed to maintaining rigorous academic standards (currently holding an 8.9 GPA) while actively expanding my technical skill set.
