@@ -27,7 +27,7 @@ I am an Artificial Intelligence undergraduate at the Indian Institute of Informa
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqua-Shin&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aqua-Shin&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=808080&cache_seconds=86400&v=2" alt="GitHub Stats" />
 </p>
 
 ### 📫 Contact & Connections
