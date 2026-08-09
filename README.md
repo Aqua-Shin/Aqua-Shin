@@ -5,7 +5,7 @@ I am an Artificial Intelligence undergraduate at the Indian Institute of Informa
 
 ### 🚀 Academic & Professional Focus
 
-*   **Software Engineering:** Focused on developing comprehensive, bare-code implementations of complex Data Structures and Algorithms (including AVL trees, heaps, and graphs) using **Java**.
+*   **Software Engineering:** Focused on developing comprehensive, bare-code implementations of complex Data Structures and Algorithms (including AVL trees, heaps, and graphs) using **Python**.
 *   **Algorithmic Problem Solving:** Actively competing and refining computational efficiency on competitive programming platforms such as CodeChef.
 *   **Research Initiatives:** Authored a comprehensive term paper analyzing digital barriers and technology engagement among older adults in India.
 *   **Project Development:** Past participant in the Smart India Hackathon (SIH), with a strong ongoing interest in collaborating on open-source Artificial Intelligence projects and dynamic applications.
@@ -14,8 +14,8 @@ I am an Artificial Intelligence undergraduate at the Indian Institute of Informa
 ### 🛠️ Technical Proficiencies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=robot&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
 ### 📈 GitHub Analytics
