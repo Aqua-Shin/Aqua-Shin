@@ -13,7 +13,7 @@ I am an Artificial Intelligence undergraduate at the Indian Institute of Informa
 
 ### 💼 Experience
 
-*   **Software Engineering Intern**, GrayMatter Software Services Pvt Ltd, Bangalore *(May – July 2026)* — worked on a conversational travel booking assistant: React 18 + TypeScript frontend, FastAPI backend, PostgreSQL/Supabase, an LLM orchestration layer routing to deterministic agents against the TBO API, and a prepaid wallet with Razorpay top-ups.
+*   **Software Engineering Intern**, GrayMatter Software Services Pvt Ltd, Bangalore *(May – August 2026)* — worked on a conversational travel booking assistant: React 18 + TypeScript frontend, FastAPI backend, PostgreSQL/Supabase, an LLM orchestration layer routing to deterministic agents against the TBO API, and a prepaid wallet with Razorpay top-ups.
 
 ### 🛠️ Technical Proficiencies
 
